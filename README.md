@@ -4,6 +4,15 @@
 
 > The human body is detected with the help of the [Mediapipe](https://github.com/google/mediapipe) library. Then, using the mathematical methods applied, it is determined how much the exercise count is done.
 
+
+## Installation 
+
+Before runing this program make sure to install these python librery
+
+```bash 
+  py -m pip install requirment.txt
+``` 
+
 ## Push-Up Exercise
 
 
