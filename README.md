@@ -11,6 +11,13 @@ A push-up is a common calisthenics exercise beginning from the prone position. B
 ```
 python main.py -t push-up -vs videos/push-up.mp4
 ```
+> Demo
+> 
+
+https://user-images.githubusercontent.com/56160262/119799549-cb303380-bef9-11eb-8639-05d78baa5b57.mp4
+
+
+
 
 
 ## Pull-Up Exercise
